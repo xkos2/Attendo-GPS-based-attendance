@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"2a12cc35-afcf-4631-8ba7-eccd38d132c7\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"T_Longitude\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 78.92665\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"5a2f7642-b037-4b7f-b8d4-0e32533b19be\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"B_Longitude\",\r\n      \"type\": \"float\",\r\n      \"value\": 78.92621\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"260de769-f6b3-4c63-8c0a-2252a5df5afd\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"112_BL\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 0.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"654ce354-2756-4a35-8f37-b16849ca9780\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"112_TL\",\r\n      \"type\": \"float\",\r\n      \"value\": 0.0\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"948d5b5f-c591-458d-86a3-d9befca6df89\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"201_BL\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 0.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"948ded76-05f8-42cf-b71d-83b6919f127f\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"201_TL\",\r\n      \"type\": \"float\",\r\n      \"value\": 0.0\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"1c01297f-e7a6-4d69-a6be-625d3325024a\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"P_BL\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 0.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"dbc9f023-3263-473f-89a7-95fa0ac39f22\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"P_TL\",\r\n      \"type\": \"float\",\r\n      \"value\": 0.0\r\n   
+    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"2a12cc35-afcf-4631-8ba7-eccd38d132c7\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"T_Longitude\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 78.92665\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"5a2f7642-b037-4b7f-b8d4-0e32533b19be\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"B_Longitude\",\r\n      \"type\": \"float\",\r\n      \"value\": 78.92621\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"260de769-f6b3-4c63-8c0a-2252a5df5afd\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"112_BL\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 0.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"654ce354-2756-4a35-8f37-b16849ca9780\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"112_TL\",\r\n      \"type\": \"float\",\r\n      \"value\": 0.0\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"948d5b5f-c591-458d-86a3-d9befca6df89\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"201_BL\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 0.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"948ded76-05f8-42cf-b71d-83b6919f127f\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"201_TL\",\r\n      \"type\": \"float\",\r\n      \"value\": 0.0\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"1c01297f-e7a6-4d69-a6be-625d3325024a\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"P_BL\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 0.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"dbc9f023-3263-473f-89a7-95fa0ac39f22\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"P_TL\",\r\n      \"type\": \"float\",\r\n      \"value\": 0.0\r\n   
+    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"6c00c825-9d41-44a9-9f34-d1559b8012ef\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"ee4af757-9e97-42bb-a15f-50ba84f84338\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2022-03-17T14:43:25Z\",\r\n    \"updatedAt\":
+    \"2022-03-17T14:43:25Z\"\r\n  }\r\n]"
+  _rulesList: '[]'
+  _lastCachedRulesList: '[]'
